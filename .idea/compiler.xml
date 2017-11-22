@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itcast-cnxh-engine" />
+        <module name="itcast-cnxh-mahout" />
+        <module name="itcast-hbase-api" />
+        <module name="itcast-realtime-ack" />
+        <module name="itcast-realtime-flume" />
+        <module name="itcast-realtime-jstorm" />
+        <module name="itcast-realtime-kafka" />
+        <module name="itcast-realtime-kanban" />
+        <module name="itcast-realtime-loganalyzer" />
+        <module name="itcast-realtime-logm" />
+        <module name="itcast-realtime-logmm" />
+        <module name="itcast-realtime-mystorm" />
+        <module name="itcast-realtime-order" />
+        <module name="itcast-realtime-storm" />
+        <module name="itcast-realtime-trc" />
+        <module name="itcast-realtime-wordcount" />
+        <module name="itcast-redis-api" />
+        <module name="itcast-spider-yousu" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itcast-cnxh-engine" target="1.8" />
+      <module name="itcast-cnxh-mahout" target="1.8" />
+      <module name="itcast-hbase-api" target="1.5" />
+      <module name="itcast-realtime-ack" target="1.8" />
+      <module name="itcast-realtime-flume" target="1.8" />
+      <module name="itcast-realtime-jstorm" target="1.8" />
+      <module name="itcast-realtime-kafka" target="1.6" />
+      <module name="itcast-realtime-kanban" target="1.8" />
+      <module name="itcast-realtime-loganalyzer" target="1.8" />
+      <module name="itcast-realtime-logm" target="1.8" />
+      <module name="itcast-realtime-logmm" target="1.8" />
+      <module name="itcast-realtime-mystorm" target="1.5" />
+      <module name="itcast-realtime-order" target="1.8" />
+      <module name="itcast-realtime-project" target="1.5" />
+      <module name="itcast-realtime-storm" target="1.5" />
+      <module name="itcast-realtime-trc" target="1.8" />
+      <module name="itcast-realtime-wordcount" target="1.8" />
+      <module name="itcast-recommend-cnxh" target="1.5" />
+      <module name="itcast-redis-api" target="1.8" />
+      <module name="itcast-spider-yousu" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

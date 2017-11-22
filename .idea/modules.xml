@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itcast-recommend-cnxh/itcast-cnxh-engine/itcast-cnxh-engine.iml" filepath="$PROJECT_DIR$/itcast-recommend-cnxh/itcast-cnxh-engine/itcast-cnxh-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-recommend-cnxh/itcast-cnxh-mahout/itcast-cnxh-mahout.iml" filepath="$PROJECT_DIR$/itcast-recommend-cnxh/itcast-cnxh-mahout/itcast-cnxh-mahout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-hbase-api/itcast-hbase-api.iml" filepath="$PROJECT_DIR$/itcast-hbase-api/itcast-hbase-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-ack/itcast-realtime-ack.iml" filepath="$PROJECT_DIR$/itcast-realtime-ack/itcast-realtime-ack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-flume/itcast-realtime-flume.iml" filepath="$PROJECT_DIR$/itcast-realtime-flume/itcast-realtime-flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-jstorm/itcast-realtime-jstorm.iml" filepath="$PROJECT_DIR$/itcast-realtime-jstorm/itcast-realtime-jstorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-kafka/itcast-realtime-kafka.iml" filepath="$PROJECT_DIR$/itcast-realtime-kafka/itcast-realtime-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-kanban/itcast-realtime-kanban.iml" filepath="$PROJECT_DIR$/itcast-realtime-kanban/itcast-realtime-kanban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-loganalyzer/itcast-realtime-loganalyzer.iml" filepath="$PROJECT_DIR$/itcast-realtime-loganalyzer/itcast-realtime-loganalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-logm/itcast-realtime-logm.iml" filepath="$PROJECT_DIR$/itcast-realtime-logm/itcast-realtime-logm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-logmm/itcast-realtime-logmm.iml" filepath="$PROJECT_DIR$/itcast-realtime-logmm/itcast-realtime-logmm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-mystorm/itcast-realtime-mystorm.iml" filepath="$PROJECT_DIR$/itcast-realtime-mystorm/itcast-realtime-mystorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-order/itcast-realtime-order.iml" filepath="$PROJECT_DIR$/itcast-realtime-order/itcast-realtime-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-project.iml" filepath="$PROJECT_DIR$/itcast-realtime-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-storm/itcast-realtime-storm.iml" filepath="$PROJECT_DIR$/itcast-realtime-storm/itcast-realtime-storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-trc/itcast-realtime-trc.iml" filepath="$PROJECT_DIR$/itcast-realtime-trc/itcast-realtime-trc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-realtime-wordcount/itcast-realtime-wordcount.iml" filepath="$PROJECT_DIR$/itcast-realtime-wordcount/itcast-realtime-wordcount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-recommend-cnxh/itcast-recommend-cnxh.iml" filepath="$PROJECT_DIR$/itcast-recommend-cnxh/itcast-recommend-cnxh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-redis-api/itcast-redis-api.iml" filepath="$PROJECT_DIR$/itcast-redis-api/itcast-redis-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-spider-yousu/itcast-spider-yousu.iml" filepath="$PROJECT_DIR$/itcast-spider-yousu/itcast-spider-yousu.iml" />
+    </modules>
+  </component>
+</project>

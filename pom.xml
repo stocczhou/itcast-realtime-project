@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cn.itcast.bigdata</groupId>
+    <artifactId>itcast-realtime-project</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>itcast-realtime-storm</module>
+        <module>itcast-realtime-kafka</module>
+        <module>itcast-realtime-logm</module>
+        <module>itcast-realtime-trc</module>
+        <module>itcast-realtime-wordcount</module>
+        <module>itcast-realtime-order</module>
+        <module>itcast-realtime-jstorm</module>
+        <module>itcast-realtime-ack</module>
+        <module>itcast-realtime-kanban</module>
+        <module>itcast-spider-yousu</module>
+        <module>itcast-realtime-flume</module>
+        <module>itcast-realtime-logmm</module>
+        <module>itcast-realtime-loganalyzer</module>
+        <module>itcast-realtime-mystorm</module>
+        <module>itcast-hbase-api</module>
+        <module>itcast-recommend-cnxh</module>
+        <module>itcast-redis-api</module>
+    </modules>
+
+
+</project>
